@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -59,3 +60,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Application-Web-
+
+## Personal Data
+* **Name:** Luisa Fernanda Hernandez Reyes
+* **Registration Number:** 02968649
+* **Degree:** Software Design and Development Engineering
+* **Semester:** Sixth Semester
+
+## Subject Data
+* **Subject:** Web Application Design
+* **Professor:** Marco Horacio Moreno Gonzalez
+
+## What is Markdown used for?
+Markdown is a lightweight markup language used to format text (bold, headers, lists) in a very simple way using symbols. It is the standard for documenting projects on GitHub because it is easy to read for both humans and machines, allowing developers to create rich text documents using a plain text editor.
+>>>>>>> c52dbc173fc2824b1d513fef55fefc827fc5ed7a
